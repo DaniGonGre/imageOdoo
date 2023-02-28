@@ -9,7 +9,7 @@ Para crear el entorno de desarrollo odoo con python:
    2. (+)Data Source
    3. PostgreSQL
 5. Hacemos un test de conexión con la base de datos para ver si funciona.
-![Captura desde 2023-02-28 10-37-36.png](..%2F..%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20desde%202023-02-28%2010-37-36.png)
+![Captura desde 2023-02-28 10-37-36](https://user-images.githubusercontent.com/91198318/221816582-2d638cfe-2647-470f-86f8-7b541aa42d8a.png)
 6. Entramos en localhost:8069 (o el puerto que hayamos indicado) en el navegador y nos pedirá los datos de la base de datos, 
 un ejemplo de como completarlo (si la base de datos ya está en uso deberemos cambiarle el nombre):
-![Captura desde 2023-02-28 10-20-15.png](..%2F..%2FIm%C3%A1genes%2FCapturas%20de%20pantalla%2FCaptura%20desde%202023-02-28%2010-20-15.png)
+![Captura desde 2023-02-28 10-20-15](https://user-images.githubusercontent.com/91198318/221816440-e97ecfa0-9773-4154-aeed-7ff59740971b.png)
